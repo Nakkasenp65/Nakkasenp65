@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;" alt="Typing SVG" />
 </p>
 
----
-
 <h3 align="left">🎓 About Me</h3>
 
 - 🧑‍🎓 Computer Science major.
@@ -59,10 +57,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nakkasenp65/Nakkasenp65/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nakkasenp65/Nakkasenp65/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nakkasenp65/Nakkasenp65/output/snake.svg" />
-</picture>
 
 ###
