@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;Passionate+about+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,9 +29,9 @@
 
 📂 **Featured Projects**
 
-- [**Java OOP Library**](https://github.com/Nakkasenp65/Java-oop-library): An object-oriented eBook library system developed in Java, incorporating SQL database management without the use of frameworks like Spring.&#8203;:contentReference[oaicite:0]{index=0}
+- [**Java OOP Library**](https://github.com/Nakkasenp65/Java-oop-library): An object-oriented eBook library system developed in Java.
 
-- [**Next.js LIFF Burger Shop**](https://github.com/Nakkasenp65/next-liff-burger-shop): :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+- [**Next.js LIFF Burger Shop**](https://github.com/Nakkasenp65/next-liff-burger-shop): Nextjs Frontend development project with real customer for educational purpose.
 
 ---
 
