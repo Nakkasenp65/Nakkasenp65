@@ -9,8 +9,6 @@
 - 🧑‍🎓 Computer Science major.
 - 💡 Seek innovative solutions and learning new technologies.
 
----
-
 ###
 
 <h3 align="left">Experienced Tools</h3>
@@ -46,8 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo"  />
 </div>
-
----
 
 <div align="left">
   <br/>
